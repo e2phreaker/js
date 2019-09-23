@@ -1,0 +1,38 @@
+{
+  "name": "TRIX ID",
+  "short_name": "TRIX ID",
+  "start_url": "https://trix-id.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang membahas hal-hal yang bermanfaat yang ada di sekitar kita.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-fb7SjLvdy9E/XYlDw2px0lI/AAAAAAAAAos/4Za16N9yrQwNj7NTVa1yX2YuVzX-105xQCNcBGAsYHQ/s48/icon_kta.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fb7SjLvdy9E/XYlDw2px0lI/AAAAAAAAAos/4Za16N9yrQwNj7NTVa1yX2YuVzX-105xQCNcBGAsYHQ/s72/icon_kta.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fb7SjLvdy9E/XYlDw2px0lI/AAAAAAAAAos/4Za16N9yrQwNj7NTVa1yX2YuVzX-105xQCNcBGAsYHQ/s96/icon_kta.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fb7SjLvdy9E/XYlDw2px0lI/AAAAAAAAAos/4Za16N9yrQwNj7NTVa1yX2YuVzX-105xQCNcBGAsYHQ/s144/icon_kta.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fb7SjLvdy9E/XYlDw2px0lI/AAAAAAAAAos/4Za16N9yrQwNj7NTVa1yX2YuVzX-105xQCNcBGAsYHQ/s168/icon_kta.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fb7SjLvdy9E/XYlDw2px0lI/AAAAAAAAAos/4Za16N9yrQwNj7NTVa1yX2YuVzX-105xQCNcBGAsYHQ/s192/icon_kta.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-fb7SjLvdy9E/XYlDw2px0lI/AAAAAAAAAos/4Za16N9yrQwNj7NTVa1yX2YuVzX-105xQCNcBGAsYHQ/s512/icon-kta.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
